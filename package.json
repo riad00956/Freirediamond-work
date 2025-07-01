@@ -1,0 +1,12 @@
+{
+  "name": "core-topup-bot",
+  "version": "1.0.0",
+  "description": "Free Fire Diamond Top-Up Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
