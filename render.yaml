@@ -1,0 +1,5 @@
+envVars:
+  - key: BOT_TOKEN
+    value: 8386473133:AAHmTQsbS9z-Sxbf3ks57uGVl9FZwaNivJI
+  - key: ADMIN_ID
+    value: "6926993789"
